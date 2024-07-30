@@ -9,6 +9,18 @@ body {
     font-family: 'Lato', sans-serif;
     font-size: 1.2em;
   }
+  body.japanese {
+    font-size: 1em;
+  }
+  .japanese .display-3 {
+    font-size: 3.5rem;
+}
+  .japanese h3 {
+    font-size: 1.25rem;
+  }
+  .japanese h2 {
+    font-size: 1.5rem;
+  }
   a, a:hover {
     color: #399CFC;
   }
